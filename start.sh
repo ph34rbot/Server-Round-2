@@ -1,1 +1,1 @@
-/home/f7lans/java/bin/java -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=8 -XX:+AggressiveOpts -XX:PermSize=256M -XX:MaxPermSize=512M -Xms6G -Xmx6G -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+/home/f7lans/java/jdk1.8.0_101/bin/java -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=8 -XX:+AggressiveOpts -XX:PermSize=256M -XX:MaxPermSize=512M -Xms6G -Xmx6G -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
